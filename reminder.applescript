@@ -17,8 +17,6 @@ tell application "Reminders"
 	end tell
 end tell
 
-return input
-
 (*
 Usage: osascript reminder.applescript
 *)
